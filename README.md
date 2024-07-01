@@ -21,3 +21,9 @@ Instructor: Dovik Reznik
 3. Run the scripts using the command:
    ```sh
    python Network Attacker.py
+
+Contact
+For any questions or feedback, please contact Yulia Marmorstein at [jmarmorstein8@gmail.com].
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
